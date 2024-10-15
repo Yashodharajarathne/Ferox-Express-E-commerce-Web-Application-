@@ -1,7 +1,5 @@
 # 🛍️ **Ferox Express E-Commerce Web Application**
 
-🔗 [**Visit Now: FeroxExpress.com**](https://feroxexpress.com)
-
 ---
 
 ## 🚀 **Overview**
