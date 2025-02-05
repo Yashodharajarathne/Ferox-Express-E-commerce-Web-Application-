@@ -17,7 +17,6 @@ Welcome to **Ferox Express**, an online shopping platform designed for a seamles
   
 - **Backend**:
   - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-  - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
@@ -28,7 +27,7 @@ Welcome to **Ferox Express**, an online shopping platform designed for a seamles
 - **Modern & Clean UI**: Crafted for a smooth and intuitive shopping experience.
 
 ### 🛒 **Product Browsing**
-- **Explore Products**: Browse through a variety of categories, check detailed product descriptions, and easily add items to the cart.
+- **Explore Products**: Browse through various categories, check detailed product descriptions, and easily add items to the cart.
 
 ### 📦 **Order Management**
 - **Real-Time Order Updates**: Users receive real-time updates on order status, from **processing** to **delivery**.
