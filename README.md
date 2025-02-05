@@ -1,10 +1,4 @@
-# 🛍️ **Ferox Express E-Commerce Web Application**
-
----
-
-## 🚀 **Overview**
-
-Welcome to **Ferox Express**, an online shopping platform designed for a seamless and enjoyable shopping experience! Browse through a variety of products, easily manage your orders, and access an intuitive admin dashboard for business insights.
+# 🛍️ **E-Commerce Web Application for Electronics Shop**
 
 ---
 
@@ -24,19 +18,15 @@ Welcome to **Ferox Express**, an online shopping platform designed for a seamles
 ## 🎨 **Features**
 
 ### 🔍 **User Interface** 
-- **Modern & Clean UI**: Crafted for a smooth and intuitive shopping experience.
+- **Clean UI**: Crafted for a smooth and intuitive shopping experience.
+- Users can view the most viewed item of the day.
 
 ### 🛒 **Product Browsing**
 - **Explore Products**: Browse through various categories, check detailed product descriptions, and easily add items to the cart.
 
-### 📦 **Order Management**
-- **Real-Time Order Updates**: Users receive real-time updates on order status, from **processing** to **delivery**.
-
 ### 🔑 **Admin Dashboard**
 - **Product Management**: Easily add, remove, or update products.
-- **Sales Reports**: Access real-time sales data and reports.
-- **Customer Insights**: Manage customer data and track their order history.
-
+- **Category Management**: Easily add, remove, or update Categories.
 ---
 
 ## 📸 **Preview**
